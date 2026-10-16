@@ -1,0 +1,13 @@
+{
+  "name": "dream-core-owner-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Separate authenticated owner dashboard for Dream Core Bot",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
